@@ -48,7 +48,7 @@ function Projects({ darkMode }) {
     return (
         <section
             id='projects'
-            style={{ backgroundColor: darkMode ? 'bg-gray-800' : '#f9fafb' }}
+            style={{ backgroundColor: darkMode ? "bg-gray-900" : "bg-white" }}
             className='relative py-24'
         >
             <div className='text-center mb-10 ' data-aos='fade-up'>
